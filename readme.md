@@ -1,4 +1,4 @@
-Magroove Data Science Test
+Data Science Test
 =======================
 
 ### Intro
